@@ -1,0 +1,56 @@
+{"basics":{
+  "image":"image.jpg",
+  "name":"Bhavana",
+  "phoneno":"9856734568",
+  "email":"kondepatibhavana@gmail.com",
+  "Address":"SRKR College,Bhimavaram."
+},
+"CareerObjective":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+  "degree":"Btech",
+  "institute":"SRKR college",
+  "data":["2016-2020","90%"]
+},
+
+{
+"degree":"inermediat",
+"institute":"SASI",
+"data":["2014-2016","95.4"]
+},
+{
+  "degree":"SSC",
+  "institute":"SASI",
+  "data":["2013-2014","9.5"]
+}
+],
+
+"skills":[
+  {
+    "title":"languages",
+    "data":["c","c++","java","ruby","python"]
+  },
+
+  {
+    "title":"operating systems",
+    "data":["sql","mysql","oracle"]
+  },
+  {
+  "title":"data base",
+  "data":["sql","mysql"]
+}
+],
+"achivements":[
+  {
+    "data":"got first prize in abacus"
+  },
+  {
+    "data":"in eamcet got 7711 rank"
+  },
+  {
+    "data":" placed as a student in SRKR engg clg "
+  }
+]
+}
